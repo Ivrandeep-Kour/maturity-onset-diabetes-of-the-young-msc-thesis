@@ -1,4 +1,4 @@
-# HNF1A variants and maturity-onset diabetes of the young in Jammu
+# Association Analysis of rs1169305 and rs2464195 (HNF1A) with Maturity-Onset Diabetes of the Young in the Population of Jammu.
 
 **Ivrandeep Kour · MSc Biotechnology · University of Jammu · 2023**  
 School of Biotechnology | Supervisor: Dr. Nisha Kapoor
